@@ -1,0 +1,2 @@
+# config-repo
+central configaration
